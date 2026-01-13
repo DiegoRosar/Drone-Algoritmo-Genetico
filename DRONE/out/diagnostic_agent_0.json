@@ -1,0 +1,8138 @@
+[
+  {
+    "individual": 0,
+    "gen": 1,
+    "ceps_valid": 63,
+    "fail_cep": "82700540"
+  },
+  {
+    "individual": 1,
+    "gen": 1,
+    "ceps_valid": 16,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 2,
+    "gen": 1,
+    "ceps_valid": 47,
+    "fail_cep": "82410316"
+  },
+  {
+    "individual": 3,
+    "gen": 1,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 2,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 1,
+    "gen": 2,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 2,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 2,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 3,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 3,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 3,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 3,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 4,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 4,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 4,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 4,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 5,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 5,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 5,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 5,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 6,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 6,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 6,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 6,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 7,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 7,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 7,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 7,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 8,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 8,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 8,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 8,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 9,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 9,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 9,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 9,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 10,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 1,
+    "gen": 10,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 10,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 10,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 11,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 11,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 11,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 11,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 12,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 12,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 12,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 12,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 13,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 13,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 13,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 13,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 14,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 14,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 14,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 14,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 15,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 15,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 15,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 15,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 0,
+    "gen": 16,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 16,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 16,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 16,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 17,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 17,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 17,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 17,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 18,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 18,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 18,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 18,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 19,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 19,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 19,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 19,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 20,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 20,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 20,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 20,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 21,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 21,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 21,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 21,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 22,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 22,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 22,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 22,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 23,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 23,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 23,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 23,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 24,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 24,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 24,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 24,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 25,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 25,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 25,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 25,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 26,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 26,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 26,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 26,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 27,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 27,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 2,
+    "gen": 27,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 27,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 28,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 1,
+    "gen": 28,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 2,
+    "gen": 28,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 28,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 29,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 1,
+    "gen": 29,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 29,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 29,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 30,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 1,
+    "gen": 30,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 30,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 3,
+    "gen": 30,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 31,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 1,
+    "gen": 31,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 2,
+    "gen": 31,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 3,
+    "gen": 31,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 32,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 1,
+    "gen": 32,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 2,
+    "gen": 32,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 32,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 33,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 33,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 2,
+    "gen": 33,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 33,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 34,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 34,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 34,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 3,
+    "gen": 34,
+    "ceps_valid": 132,
+    "fail_cep": "82220563"
+  },
+  {
+    "individual": 0,
+    "gen": 35,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 35,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 35,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 35,
+    "ceps_valid": 132,
+    "fail_cep": "82220563"
+  },
+  {
+    "individual": 0,
+    "gen": 36,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 36,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 36,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 3,
+    "gen": 36,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 0,
+    "gen": 37,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 37,
+    "ceps_valid": 171,
+    "fail_cep": "81925578"
+  },
+  {
+    "individual": 2,
+    "gen": 37,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 3,
+    "gen": 37,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 38,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 38,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 2,
+    "gen": 38,
+    "ceps_valid": 88,
+    "fail_cep": "81935303"
+  },
+  {
+    "individual": 3,
+    "gen": 38,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 39,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 39,
+    "ceps_valid": 171,
+    "fail_cep": "81925578"
+  },
+  {
+    "individual": 2,
+    "gen": 39,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 3,
+    "gen": 39,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 0,
+    "gen": 40,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 40,
+    "ceps_valid": 171,
+    "fail_cep": "81925578"
+  },
+  {
+    "individual": 2,
+    "gen": 40,
+    "ceps_valid": 132,
+    "fail_cep": "82220563"
+  },
+  {
+    "individual": 3,
+    "gen": 40,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 0,
+    "gen": 41,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 41,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 41,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 41,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 42,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 42,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 42,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 42,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 43,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 43,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 43,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 3,
+    "gen": 43,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 44,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 44,
+    "ceps_valid": 62,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 44,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 44,
+    "ceps_valid": 132,
+    "fail_cep": "82220563"
+  },
+  {
+    "individual": 0,
+    "gen": 45,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 45,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 45,
+    "ceps_valid": 62,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 45,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 46,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 46,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 46,
+    "ceps_valid": 357,
+    "fail_cep": "81470370"
+  },
+  {
+    "individual": 3,
+    "gen": 46,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 47,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 47,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 47,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 3,
+    "gen": 47,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 48,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 48,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 2,
+    "gen": 48,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 3,
+    "gen": 48,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 49,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 49,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 2,
+    "gen": 49,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 3,
+    "gen": 49,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 50,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 50,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 50,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 50,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 51,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 51,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 2,
+    "gen": 51,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 51,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 52,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 52,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 52,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 3,
+    "gen": 52,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 0,
+    "gen": 53,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 53,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 2,
+    "gen": 53,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 53,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 0,
+    "gen": 54,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 54,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 54,
+    "ceps_valid": 139,
+    "fail_cep": "82520095"
+  },
+  {
+    "individual": 3,
+    "gen": 54,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 55,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 55,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 55,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 55,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 56,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 56,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 2,
+    "gen": 56,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 56,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 57,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 57,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 57,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 57,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 0,
+    "gen": 58,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 58,
+    "ceps_valid": 184,
+    "fail_cep": "81610020"
+  },
+  {
+    "individual": 2,
+    "gen": 58,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 58,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 59,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 59,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 59,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 59,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 60,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 60,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 60,
+    "ceps_valid": 350,
+    "fail_cep": "81820330"
+  },
+  {
+    "individual": 3,
+    "gen": 60,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 61,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 61,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 61,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 3,
+    "gen": 61,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 62,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 62,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 2,
+    "gen": 62,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 62,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 0,
+    "gen": 63,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 63,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 63,
+    "ceps_valid": 64,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 63,
+    "ceps_valid": 62,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 64,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 64,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 64,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 3,
+    "gen": 64,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 65,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 65,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 2,
+    "gen": 65,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 65,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 66,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 66,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 66,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 3,
+    "gen": 66,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 67,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 67,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 67,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 67,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 68,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 68,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 68,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 68,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 69,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 69,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 69,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 69,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 0,
+    "gen": 70,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 70,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 70,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 70,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 71,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 71,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 71,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 71,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 72,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 72,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 72,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 72,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 0,
+    "gen": 73,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 73,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 73,
+    "ceps_valid": 171,
+    "fail_cep": "81925578"
+  },
+  {
+    "individual": 3,
+    "gen": 73,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 74,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 74,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 2,
+    "gen": 74,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 74,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 75,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 75,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 75,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 75,
+    "ceps_valid": 176,
+    "fail_cep": "82810080"
+  },
+  {
+    "individual": 0,
+    "gen": 76,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 76,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 2,
+    "gen": 76,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 76,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 77,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 77,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 2,
+    "gen": 77,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 77,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 78,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 78,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 78,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 78,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 79,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 79,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 2,
+    "gen": 79,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 79,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 80,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 80,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 2,
+    "gen": 80,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 80,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 0,
+    "gen": 81,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 81,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 81,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 81,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 82,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 82,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 82,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 3,
+    "gen": 82,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 83,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 83,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 83,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 83,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 0,
+    "gen": 84,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 84,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 84,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 84,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 0,
+    "gen": 85,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 85,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 85,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 85,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 86,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 86,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 86,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 86,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 87,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 87,
+    "ceps_valid": 161,
+    "fail_cep": "82710320"
+  },
+  {
+    "individual": 2,
+    "gen": 87,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 87,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 88,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 88,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 88,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 88,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 89,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 89,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 89,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 89,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 90,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 90,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 90,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 90,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 91,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 91,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 91,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 91,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 0,
+    "gen": 92,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 92,
+    "ceps_valid": 132,
+    "fail_cep": "82220563"
+  },
+  {
+    "individual": 2,
+    "gen": 92,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 92,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 0,
+    "gen": 93,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 93,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 2,
+    "gen": 93,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 3,
+    "gen": 93,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 94,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 94,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 94,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 3,
+    "gen": 94,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 95,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 95,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 2,
+    "gen": 95,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 95,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 96,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 96,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 96,
+    "ceps_valid": 66,
+    "fail_cep": "81470089"
+  },
+  {
+    "individual": 3,
+    "gen": 96,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 0,
+    "gen": 97,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 97,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 97,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 3,
+    "gen": 97,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 98,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 98,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 98,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 3,
+    "gen": 98,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 0,
+    "gen": 99,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 99,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 99,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 99,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 0,
+    "gen": 100,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 100,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 2,
+    "gen": 100,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 100,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 0,
+    "gen": 101,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 101,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 101,
+    "ceps_valid": 218,
+    "fail_cep": "82650230"
+  },
+  {
+    "individual": 3,
+    "gen": 101,
+    "ceps_valid": 350,
+    "fail_cep": "81820330"
+  },
+  {
+    "individual": 0,
+    "gen": 102,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 102,
+    "ceps_valid": 171,
+    "fail_cep": "81925578"
+  },
+  {
+    "individual": 2,
+    "gen": 102,
+    "ceps_valid": 149,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 102,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 103,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 103,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 2,
+    "gen": 103,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 103,
+    "ceps_valid": 350,
+    "fail_cep": "81820330"
+  },
+  {
+    "individual": 0,
+    "gen": 104,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 104,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 2,
+    "gen": 104,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 104,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 0,
+    "gen": 105,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 105,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 105,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 105,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 0,
+    "gen": 106,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 106,
+    "ceps_valid": 147,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 2,
+    "gen": 106,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 106,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 0,
+    "gen": 107,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 107,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 107,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 107,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 0,
+    "gen": 108,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 108,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 108,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 108,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 109,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 109,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 2,
+    "gen": 109,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 109,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 0,
+    "gen": 110,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 110,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 110,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 110,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 111,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 111,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 2,
+    "gen": 111,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 111,
+    "ceps_valid": 328,
+    "fail_cep": "81590210"
+  },
+  {
+    "individual": 0,
+    "gen": 112,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 112,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 2,
+    "gen": 112,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 112,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 113,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 113,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 113,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 113,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 114,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 114,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 114,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 114,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 115,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 115,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 2,
+    "gen": 115,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 115,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 116,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 116,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 116,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 116,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 117,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 117,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 2,
+    "gen": 117,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 117,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 118,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 118,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 118,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 118,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 119,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 119,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 119,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 3,
+    "gen": 119,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 0,
+    "gen": 120,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 120,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 120,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 120,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 121,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 121,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 2,
+    "gen": 121,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 121,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 0,
+    "gen": 122,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 122,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 122,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 122,
+    "ceps_valid": 289,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 123,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 123,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 123,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 123,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 124,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 124,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 124,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 124,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 125,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 125,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 125,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 125,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 126,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 126,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 126,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 3,
+    "gen": 126,
+    "ceps_valid": 334,
+    "fail_cep": "81910570"
+  },
+  {
+    "individual": 0,
+    "gen": 127,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 127,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 127,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 3,
+    "gen": 127,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 128,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 128,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 128,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 128,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 0,
+    "gen": 129,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 129,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 129,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 129,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 130,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 130,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 130,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 3,
+    "gen": 130,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 131,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 131,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 131,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 131,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 132,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 132,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 132,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 132,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 133,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 133,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 2,
+    "gen": 133,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 133,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 134,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 134,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 134,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 134,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 135,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 135,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 135,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 135,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 136,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 136,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 2,
+    "gen": 136,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 136,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 137,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 137,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 137,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 137,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 138,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 138,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 138,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 138,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 139,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 139,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 139,
+    "ceps_valid": 66,
+    "fail_cep": "81470089"
+  },
+  {
+    "individual": 3,
+    "gen": 139,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 140,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 140,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 140,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 3,
+    "gen": 140,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 141,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 141,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 141,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 141,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 142,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 142,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 142,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 142,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 143,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 143,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 143,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 3,
+    "gen": 143,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 144,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 144,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 144,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 144,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 0,
+    "gen": 145,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 145,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 2,
+    "gen": 145,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 3,
+    "gen": 145,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 0,
+    "gen": 146,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 146,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 146,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 146,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 147,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 147,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 147,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 147,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 148,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 148,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 2,
+    "gen": 148,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 148,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 149,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 149,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 149,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 3,
+    "gen": 149,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 150,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 150,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 2,
+    "gen": 150,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 150,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 151,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 151,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 2,
+    "gen": 151,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 151,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 152,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 152,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 152,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 152,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 153,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 153,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 153,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 3,
+    "gen": 153,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 154,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 154,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 154,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 154,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 155,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 155,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 155,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 3,
+    "gen": 155,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 156,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 156,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 156,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 156,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 157,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 157,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 157,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 157,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 158,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 158,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 158,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 158,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 159,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 159,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 159,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 159,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 160,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 160,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 160,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 160,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 161,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 161,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 161,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 3,
+    "gen": 161,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 162,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 162,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 162,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 162,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 163,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 163,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 163,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 3,
+    "gen": 163,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 164,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 164,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 164,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 164,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 165,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 165,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 165,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 165,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 166,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 166,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 2,
+    "gen": 166,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 166,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 167,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 167,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 167,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 167,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 0,
+    "gen": 168,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 168,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 168,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 168,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 169,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 169,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 169,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 169,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 0,
+    "gen": 170,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 170,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 170,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 3,
+    "gen": 170,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 171,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 171,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 171,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 171,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 0,
+    "gen": 172,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 172,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 172,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 172,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 173,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 173,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 173,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 3,
+    "gen": 173,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 174,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 174,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 174,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 3,
+    "gen": 174,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 175,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 175,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 175,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 175,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 0,
+    "gen": 176,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 176,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 176,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 3,
+    "gen": 176,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 0,
+    "gen": 177,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 177,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 177,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 177,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 178,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 178,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 178,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 3,
+    "gen": 178,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 179,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 179,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 2,
+    "gen": 179,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 179,
+    "ceps_valid": 132,
+    "fail_cep": "82220563"
+  },
+  {
+    "individual": 0,
+    "gen": 180,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 180,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 180,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 180,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 181,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 181,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 181,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 181,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 182,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 182,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 2,
+    "gen": 182,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 182,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 183,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 183,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 2,
+    "gen": 183,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 183,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 184,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 184,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 184,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 184,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 185,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 185,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 185,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 3,
+    "gen": 185,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 186,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 186,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 186,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 186,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 187,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 187,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 2,
+    "gen": 187,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 3,
+    "gen": 187,
+    "ceps_valid": 218,
+    "fail_cep": "82650230"
+  },
+  {
+    "individual": 0,
+    "gen": 188,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 188,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 2,
+    "gen": 188,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 3,
+    "gen": 188,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 189,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 189,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 189,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 189,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 190,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 190,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 2,
+    "gen": 190,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 190,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 191,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 191,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 191,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 191,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 192,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 192,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 192,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 192,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 193,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 193,
+    "ceps_valid": 324,
+    "fail_cep": "82640640"
+  },
+  {
+    "individual": 2,
+    "gen": 193,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 3,
+    "gen": 193,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 0,
+    "gen": 194,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 194,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 194,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 194,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 195,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 195,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 195,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 3,
+    "gen": 195,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 196,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 196,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 196,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 196,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 0,
+    "gen": 197,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 197,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 2,
+    "gen": 197,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 3,
+    "gen": 197,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 198,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 198,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 198,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 198,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 199,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 199,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 2,
+    "gen": 199,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 3,
+    "gen": 199,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 200,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 200,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 200,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 200,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 201,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 201,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 201,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 3,
+    "gen": 201,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 0,
+    "gen": 202,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 202,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 2,
+    "gen": 202,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 3,
+    "gen": 202,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 203,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 203,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 203,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 203,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 204,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 204,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 2,
+    "gen": 204,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 204,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 205,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 205,
+    "ceps_valid": 78,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 205,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 205,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 0,
+    "gen": 206,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 206,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 2,
+    "gen": 206,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 3,
+    "gen": 206,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 207,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 207,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 207,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 207,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 208,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 208,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 2,
+    "gen": 208,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 208,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 0,
+    "gen": 209,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 209,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 209,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 3,
+    "gen": 209,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 210,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 210,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 2,
+    "gen": 210,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 210,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 211,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 211,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 211,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 3,
+    "gen": 211,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 212,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 212,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 2,
+    "gen": 212,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 3,
+    "gen": 212,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 213,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 213,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 213,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 3,
+    "gen": 213,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 214,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 214,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 214,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 214,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 0,
+    "gen": 215,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 215,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 215,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 215,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 216,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 216,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 216,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 3,
+    "gen": 216,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 217,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 217,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 217,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 3,
+    "gen": 217,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 218,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 218,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 218,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 218,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 219,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 219,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 219,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 219,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 220,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 220,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 220,
+    "ceps_valid": 95,
+    "fail_cep": "81470370"
+  },
+  {
+    "individual": 3,
+    "gen": 220,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 221,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 221,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 221,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 221,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 222,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 222,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 222,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 222,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 223,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 223,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 223,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 3,
+    "gen": 223,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 224,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 224,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 224,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 224,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 225,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 225,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 2,
+    "gen": 225,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 3,
+    "gen": 225,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 226,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 226,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 226,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 226,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 227,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 227,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 227,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 3,
+    "gen": 227,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 228,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 228,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 2,
+    "gen": 228,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 228,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 229,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 229,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 2,
+    "gen": 229,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 229,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 0,
+    "gen": 230,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 230,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 2,
+    "gen": 230,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 3,
+    "gen": 230,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 231,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 231,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 2,
+    "gen": 231,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 231,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 232,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 232,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 232,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 3,
+    "gen": 232,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 233,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 233,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 233,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 233,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 234,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 234,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 234,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 234,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 235,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 235,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 235,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 235,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 236,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 236,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 236,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 236,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 237,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 237,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 237,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 3,
+    "gen": 237,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 238,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 238,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 238,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 238,
+    "ceps_valid": 289,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 239,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 239,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 239,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 239,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 240,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 240,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 2,
+    "gen": 240,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 3,
+    "gen": 240,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 0,
+    "gen": 241,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 241,
+    "ceps_valid": 276,
+    "fail_cep": "80410000"
+  },
+  {
+    "individual": 2,
+    "gen": 241,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 241,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 242,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 242,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 2,
+    "gen": 242,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 3,
+    "gen": 242,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 243,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 243,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 243,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 243,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 244,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 244,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 244,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 244,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 245,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 245,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 245,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 3,
+    "gen": 245,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 246,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 246,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 246,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 3,
+    "gen": 246,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 0,
+    "gen": 247,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 247,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 247,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 3,
+    "gen": 247,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 0,
+    "gen": 248,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 248,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 2,
+    "gen": 248,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 248,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 249,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 249,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 249,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 249,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 250,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 250,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 250,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 250,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 251,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 251,
+    "ceps_valid": 348,
+    "fail_cep": "82220142"
+  },
+  {
+    "individual": 2,
+    "gen": 251,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 3,
+    "gen": 251,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 252,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 252,
+    "ceps_valid": 182,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 252,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 252,
+    "ceps_valid": 348,
+    "fail_cep": "82220142"
+  },
+  {
+    "individual": 0,
+    "gen": 253,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 253,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 2,
+    "gen": 253,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 3,
+    "gen": 253,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 254,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 254,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 254,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 254,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 0,
+    "gen": 255,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 255,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 255,
+    "ceps_valid": 184,
+    "fail_cep": "81610020"
+  },
+  {
+    "individual": 3,
+    "gen": 255,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 256,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 256,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 256,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 256,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 257,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 257,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 2,
+    "gen": 257,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 257,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 258,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 258,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 2,
+    "gen": 258,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 258,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 0,
+    "gen": 259,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 259,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 259,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 259,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 260,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 260,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 260,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 260,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 261,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 261,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 261,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 3,
+    "gen": 261,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 262,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 262,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 2,
+    "gen": 262,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 262,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 0,
+    "gen": 263,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 263,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 2,
+    "gen": 263,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 3,
+    "gen": 263,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 264,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 264,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 264,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 264,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 0,
+    "gen": 265,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 265,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 265,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 265,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 266,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 266,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 266,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 266,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 267,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 267,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 2,
+    "gen": 267,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 267,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 0,
+    "gen": 268,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 268,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 2,
+    "gen": 268,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 268,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 269,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 269,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 269,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 269,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 0,
+    "gen": 270,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 270,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 270,
+    "ceps_valid": 132,
+    "fail_cep": "82220563"
+  },
+  {
+    "individual": 3,
+    "gen": 270,
+    "ceps_valid": 350,
+    "fail_cep": "81820330"
+  },
+  {
+    "individual": 0,
+    "gen": 271,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 271,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 271,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 271,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 272,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 272,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 272,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 272,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 273,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 273,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 273,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 3,
+    "gen": 273,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 274,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 274,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 2,
+    "gen": 274,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 3,
+    "gen": 274,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 0,
+    "gen": 275,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 275,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 275,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 275,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 0,
+    "gen": 276,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 276,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 276,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 276,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 277,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 277,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 277,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 3,
+    "gen": 277,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 278,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 278,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 2,
+    "gen": 278,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 278,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 279,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 279,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 279,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 3,
+    "gen": 279,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 280,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 280,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 2,
+    "gen": 280,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 280,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 281,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 281,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 281,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 281,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 282,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 282,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 282,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 3,
+    "gen": 282,
+    "ceps_valid": 74,
+    "fail_cep": "81480170"
+  },
+  {
+    "individual": 0,
+    "gen": 283,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 283,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 2,
+    "gen": 283,
+    "ceps_valid": 292,
+    "fail_cep": "81470346"
+  },
+  {
+    "individual": 3,
+    "gen": 283,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 0,
+    "gen": 284,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 284,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 284,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 3,
+    "gen": 284,
+    "ceps_valid": 68,
+    "fail_cep": "81550150"
+  },
+  {
+    "individual": 0,
+    "gen": 285,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 285,
+    "ceps_valid": 348,
+    "fail_cep": "82220142"
+  },
+  {
+    "individual": 2,
+    "gen": 285,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 285,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 286,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 286,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 286,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 286,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 287,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 287,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 287,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 287,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 288,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 288,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 288,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 288,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 0,
+    "gen": 289,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 289,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 289,
+    "ceps_valid": 218,
+    "fail_cep": "82650230"
+  },
+  {
+    "individual": 3,
+    "gen": 289,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 290,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 290,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 2,
+    "gen": 290,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 290,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 291,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 291,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 291,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 291,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 0,
+    "gen": 292,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 292,
+    "ceps_valid": 289,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 292,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 3,
+    "gen": 292,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 0,
+    "gen": 293,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 293,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 293,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 293,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 294,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 294,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 2,
+    "gen": 294,
+    "ceps_valid": 113,
+    "fail_cep": "82200200"
+  },
+  {
+    "individual": 3,
+    "gen": 294,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 295,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 295,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 2,
+    "gen": 295,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 295,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 296,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 296,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 296,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 296,
+    "ceps_valid": 328,
+    "fail_cep": "81590210"
+  },
+  {
+    "individual": 0,
+    "gen": 297,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 297,
+    "ceps_valid": 368,
+    "fail_cep": "82710330"
+  },
+  {
+    "individual": 2,
+    "gen": 297,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 3,
+    "gen": 297,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 298,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 298,
+    "ceps_valid": 289,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 2,
+    "gen": 298,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 298,
+    "ceps_valid": 106,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 299,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 299,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 299,
+    "ceps_valid": 328,
+    "fail_cep": "81590210"
+  },
+  {
+    "individual": 3,
+    "gen": 299,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 0,
+    "gen": 300,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 300,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 300,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 3,
+    "gen": 300,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 301,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 301,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 301,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 301,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 302,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 302,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 302,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 302,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 0,
+    "gen": 303,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 303,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 303,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 303,
+    "ceps_valid": 268,
+    "fail_cep": "81850650"
+  },
+  {
+    "individual": 0,
+    "gen": 304,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 304,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 304,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 304,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 305,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 305,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 305,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 3,
+    "gen": 305,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 306,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 306,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 306,
+    "ceps_valid": 47,
+    "fail_cep": "81490280"
+  },
+  {
+    "individual": 3,
+    "gen": 306,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 307,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 307,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 307,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 307,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 308,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 308,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 308,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 3,
+    "gen": 308,
+    "ceps_valid": 103,
+    "fail_cep": "82015720"
+  },
+  {
+    "individual": 0,
+    "gen": 309,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 309,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 309,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 309,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 310,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 310,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 310,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 3,
+    "gen": 310,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 0,
+    "gen": 311,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 311,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 311,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 311,
+    "ceps_valid": 80,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 0,
+    "gen": 312,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 312,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 312,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 3,
+    "gen": 312,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 313,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 313,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 313,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 3,
+    "gen": 313,
+    "ceps_valid": 218,
+    "fail_cep": "82650230"
+  },
+  {
+    "individual": 0,
+    "gen": 314,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 314,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 314,
+    "ceps_valid": 146,
+    "fail_cep": "82630100"
+  },
+  {
+    "individual": 3,
+    "gen": 314,
+    "ceps_valid": 73,
+    "fail_cep": "82930428"
+  },
+  {
+    "individual": 0,
+    "gen": 315,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 315,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 2,
+    "gen": 315,
+    "ceps_valid": 128,
+    "fail_cep": "82700410"
+  },
+  {
+    "individual": 3,
+    "gen": 315,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 316,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 316,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 2,
+    "gen": 316,
+    "ceps_valid": 97,
+    "fail_cep": "82320340"
+  },
+  {
+    "individual": 3,
+    "gen": 316,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 0,
+    "gen": 317,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 317,
+    "ceps_valid": 153,
+    "fail_cep": "82130282"
+  },
+  {
+    "individual": 2,
+    "gen": 317,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 317,
+    "ceps_valid": 323,
+    "fail_cep": "82220610"
+  },
+  {
+    "individual": 0,
+    "gen": 318,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 318,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 318,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 3,
+    "gen": 318,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 319,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 319,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 2,
+    "gen": 319,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 319,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 0,
+    "gen": 320,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 320,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 2,
+    "gen": 320,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 320,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 0,
+    "gen": 321,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 321,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 321,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 3,
+    "gen": 321,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 0,
+    "gen": 322,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 322,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 322,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 322,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 323,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 323,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 2,
+    "gen": 323,
+    "ceps_valid": 256,
+    "fail_cep": "81490010"
+  },
+  {
+    "individual": 3,
+    "gen": 323,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 324,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 324,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 2,
+    "gen": 324,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 3,
+    "gen": 324,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 325,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 325,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 2,
+    "gen": 325,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 3,
+    "gen": 325,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 326,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 326,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 2,
+    "gen": 326,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 3,
+    "gen": 326,
+    "ceps_valid": 104,
+    "fail_cep": "81490398"
+  },
+  {
+    "individual": 0,
+    "gen": 327,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 327,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 327,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 3,
+    "gen": 327,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 0,
+    "gen": 328,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 328,
+    "ceps_valid": 98,
+    "fail_cep": "81935474"
+  },
+  {
+    "individual": 2,
+    "gen": 328,
+    "ceps_valid": 289,
+    "fail_cep": "81940200"
+  },
+  {
+    "individual": 3,
+    "gen": 328,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 329,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 329,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 329,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 329,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 330,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 330,
+    "ceps_valid": 106,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 2,
+    "gen": 330,
+    "ceps_valid": 351,
+    "fail_cep": "82720410"
+  },
+  {
+    "individual": 3,
+    "gen": 330,
+    "ceps_valid": 288,
+    "fail_cep": "82710082"
+  },
+  {
+    "individual": 0,
+    "gen": 331,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 331,
+    "ceps_valid": 1,
+    "fail_cep": "82515190"
+  },
+  {
+    "individual": 2,
+    "gen": 331,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 331,
+    "ceps_valid": 53,
+    "fail_cep": "81925567"
+  },
+  {
+    "individual": 0,
+    "gen": 332,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 332,
+    "ceps_valid": 81,
+    "fail_cep": "81220090"
+  },
+  {
+    "individual": 2,
+    "gen": 332,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  },
+  {
+    "individual": 3,
+    "gen": 332,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 333,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 333,
+    "ceps_valid": 37,
+    "fail_cep": "81550240"
+  },
+  {
+    "individual": 2,
+    "gen": 333,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 3,
+    "gen": 333,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 334,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 334,
+    "ceps_valid": 350,
+    "fail_cep": "81820330"
+  },
+  {
+    "individual": 2,
+    "gen": 334,
+    "ceps_valid": 148,
+    "fail_cep": "81200400"
+  },
+  {
+    "individual": 3,
+    "gen": 334,
+    "ceps_valid": 63,
+    "fail_cep": "82980600"
+  },
+  {
+    "individual": 0,
+    "gen": 335,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 335,
+    "ceps_valid": 335,
+    "fail_cep": "82650470"
+  },
+  {
+    "individual": 2,
+    "gen": 335,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 335,
+    "ceps_valid": 79,
+    "fail_cep": "80010040"
+  },
+  {
+    "individual": 0,
+    "gen": 336,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 336,
+    "ceps_valid": 89,
+    "fail_cep": "82820300"
+  },
+  {
+    "individual": 2,
+    "gen": 336,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 336,
+    "ceps_valid": 105,
+    "fail_cep": "82630290"
+  },
+  {
+    "individual": 0,
+    "gen": 337,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 337,
+    "ceps_valid": 187,
+    "fail_cep": "81490370"
+  },
+  {
+    "individual": 2,
+    "gen": 337,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 337,
+    "ceps_valid": 23,
+    "fail_cep": "82640400"
+  },
+  {
+    "individual": 0,
+    "gen": 338,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 338,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 338,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 338,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 0,
+    "gen": 339,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 1,
+    "gen": 339,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 2,
+    "gen": 339,
+    "ceps_valid": 374,
+    "fail_cep": null
+  },
+  {
+    "individual": 3,
+    "gen": 339,
+    "ceps_valid": 181,
+    "fail_cep": "80820480"
+  }
+]

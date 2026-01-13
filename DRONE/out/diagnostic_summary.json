@@ -1,0 +1,10 @@
+{
+  "0": {
+    "best_valid_route": 374,
+    "average_valid_ceps": 201.19616519174042,
+    "most_problematic_cep": [
+      "80010040",
+      129
+    ]
+  }
+}
